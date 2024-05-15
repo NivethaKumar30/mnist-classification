@@ -51,8 +51,7 @@ Fit the model and predict the single input
 
 ## PROGRAM
 
-### Name: NIVETHA K
-### Register Number: 212222230102
+### Name: NIVETHA K  Register Number: 212222230102
 
 ```
 import numpy as np
